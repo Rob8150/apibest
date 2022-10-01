@@ -1,0 +1,6 @@
+//go run main.go    
+//go get -u github.com/gin-gonic/gin                                                                                                                                                    
+
+// curl http://localhost:8080/newsfeed                                                                                                                                                  
+// curl -H "Content-Type: application/json" -d '{"Title":"Robert","Post":"Whats up man"}' http://localhost:8080/newsfeed                                                                
+// curl http://localhost:8080/ping      
